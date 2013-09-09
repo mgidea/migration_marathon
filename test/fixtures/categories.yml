@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  fiction: MyString
+  non_fiction: MyString
+  crime: MyString
+  mystery: MyString
+  science_fiction: MyString
+
+two:
+  fiction: MyString
+  non_fiction: MyString
+  crime: MyString
+  mystery: MyString
+  science_fiction: MyString
